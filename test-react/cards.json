@@ -1,0 +1,100 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "imageUrl": "https://microtron.ua/media/5c7698b34dd656a33d2fdaf4/videokarta-geforce-gtx1050ti-oc-msi-gaming-4gb-ddr5-128-bit-gtx-1050-ti-gaming-x-4g-171218.png",
+            "name": "GTX 1050TI",
+            "count": 0,
+            "size": {
+                "width": 700,
+                "height": 700
+            },
+            "weight": "800g",
+            "price": 3000000,
+            "comments": [
+                "Some kind of comment",
+                "Another comment"
+            ]
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://asset.msi.com/resize/image/global/product/product_2_20180411112826_5acd80da29b65.png62405b38c58fe0f07fcef2367d8a9ba1/600.png",
+            "name": "GTX 1060",
+            "count": 0,
+            "size": {
+                "width": 320,
+                "height": 3320
+            },
+            "weight": "428g",
+            "price": 500000,
+            "comments": [
+                "Some kind of comment",
+                "Another comment"
+            ]
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://habrastorage.org/files/448/74b/a96/44874ba9697f41359771ff640c535f1e.jpg",
+            "name": "AAVID",
+            "count": 0,
+            "size": {
+                "width": 300,
+                "height": 320
+            },
+            "weight": "648g",
+            "price": 5000,
+            "comments": [
+                "Some kind of comment",
+                "Another comment"
+            ]
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://content.rozetka.com.ua/goods/images/big/95069323.jpg",
+            "name": "RTX2060",
+            "count": 0,
+            "size": {
+                "width": 400,
+                "height": 650
+            },
+            "weight": "4208g",
+            "price": 9999999999,
+            "comments": [
+                "Some kind of comment",
+                "Another comment"
+            ]
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://www.asus.com/media/global/products/UBf8RLOWmEc4fBan/P_setting_xxx_0_90_end_692.png",
+            "name": "RX 550",
+            "count": 0,
+            "size": {
+                "width": 1000,
+                "height": 2020
+            },
+            "weight": "2402g",
+            "price": 41000,
+            "comments": [
+                "Some kind of comment",
+                "Another comment"
+            ]
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://content2.rozetka.com.ua/goods/images/big/174634738.jpg",
+            "name": "RX6700XT",
+            "count": 0,
+            "size": {
+                "width": 1488,
+                "height": 1488
+            },
+            "weight": "1337g",
+            "price": 120000,
+            "comments": [
+                "Some kind of comment",
+                "Another comment"
+            ]
+        }
+    ]
+}
